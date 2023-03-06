@@ -1,0 +1,272 @@
+{
+    "barnacle": {
+        "left": 0,
+        "top": 0,
+        "right": 51,
+        "bottom": 57
+    },
+    "barnacle_bite": {
+        "left": 51,
+        "top": 0,
+        "right": 102,
+        "bottom": 58
+    },
+    "bat": {
+        "left": 102,
+        "top": 0,
+        "right": 172,
+        "bottom": 47
+    },
+    "bat_fly": {
+        "left": 172,
+        "top": 0,
+        "right": 260,
+        "bottom": 37
+    },
+    "bat_hang": {
+        "left": 260,
+        "top": 0,
+        "right": 298,
+        "bottom": 48
+    },
+    "bee": {
+        "left": 298,
+        "top": 0,
+        "right": 354,
+        "bottom": 48
+    },
+    "bee_fly": {
+        "left": 0,
+        "top": 58,
+        "right": 61,
+        "bottom": 100
+    },
+    "fishBlue": {
+        "left": 61,
+        "top": 58,
+        "right": 106,
+        "bottom": 118
+    },
+    "fishGreen": {
+        "left": 106,
+        "top": 58,
+        "right": 150,
+        "bottom": 115
+    },
+    "fishPink": {
+        "left": 150,
+        "top": 58,
+        "right": 194,
+        "bottom": 115
+    },
+    "fly": {
+        "left": 194,
+        "top": 58,
+        "right": 251,
+        "bottom": 103
+    },
+    "fly_fly": {
+        "left": 251,
+        "top": 58,
+        "right": 316,
+        "bottom": 97
+    },
+    "frog": {
+        "left": 316,
+        "top": 58,
+        "right": 374,
+        "bottom": 97
+    },
+    "frog_leap": {
+        "left": 0,
+        "top": 118,
+        "right": 61,
+        "bottom": 172
+    },
+    "ghost": {
+        "left": 61,
+        "top": 118,
+        "right": 112,
+        "bottom": 191
+    },
+    "ghost_normal": {
+        "left": 112,
+        "top": 118,
+        "right": 163,
+        "bottom": 191
+    },
+    "grassBlock": {
+        "left": 163,
+        "top": 118,
+        "right": 234,
+        "bottom": 188
+    },
+    "grassBlock_jump": {
+        "left": 234,
+        "top": 118,
+        "right": 305,
+        "bottom": 188
+    },
+    "ladyBug": {
+        "left": 305,
+        "top": 118,
+        "right": 363,
+        "bottom": 152
+    },
+    "ladyBug_fly": {
+        "left": 0,
+        "top": 191,
+        "right": 59,
+        "bottom": 233
+    },
+    "ladyBug_walk": {
+        "left": 59,
+        "top": 191,
+        "right": 120,
+        "bottom": 225
+    },
+    "mouse": {
+        "left": 120,
+        "top": 191,
+        "right": 179,
+        "bottom": 226
+    },
+    "mouse_walk": {
+        "left": 179,
+        "top": 191,
+        "right": 237,
+        "bottom": 226
+    },
+    "slimeBlock": {
+        "left": 237,
+        "top": 191,
+        "right": 288,
+        "bottom": 241
+    },
+    "slimeBlue": {
+        "left": 288,
+        "top": 191,
+        "right": 337,
+        "bottom": 225
+    },
+    "slimeBlue_walk": {
+        "left": 337,
+        "top": 191,
+        "right": 394,
+        "bottom": 221
+    },
+    "slimeGreen": {
+        "left": 0,
+        "top": 241,
+        "right": 49,
+        "bottom": 275
+    },
+    "slimeGreen_walk": {
+        "left": 49,
+        "top": 241,
+        "right": 106,
+        "bottom": 271
+    },
+    "slimePink": {
+        "left": 106,
+        "top": 241,
+        "right": 155,
+        "bottom": 275
+    },
+    "slimePink_walk": {
+        "left": 155,
+        "top": 241,
+        "right": 212,
+        "bottom": 271
+    },
+    "snail": {
+        "left": 212,
+        "top": 241,
+        "right": 267,
+        "bottom": 281
+    },
+    "snail_shell": {
+        "left": 267,
+        "top": 241,
+        "right": 310,
+        "bottom": 276
+    },
+    "snail_walk": {
+        "left": 310,
+        "top": 241,
+        "right": 370,
+        "bottom": 281
+    },
+    "spider_1": {
+        "left": 0,
+        "top": 292,
+        "right": 72,
+        "bottom": 343
+    },
+    "spider_2": {
+        "left": 72,
+        "top": 292,
+        "right": 149,
+        "bottom": 345
+    },
+    "spinner": {
+        "left": 149,
+        "top": 292,
+        "right": 212,
+        "bottom": 354
+    },
+    "spinner_spin": {
+        "left": 212,
+        "top": 292,
+        "right": 273,
+        "bottom": 353
+    },
+    "wormGreen": {
+        "left": 273,
+        "top": 292,
+        "right": 336,
+        "bottom": 315
+    },
+    "wormGreen_walk": {
+        "left": 336,
+        "top": 292,
+        "right": 399,
+        "bottom": 315
+    },
+    "wormPink": {
+        "left": 0,
+        "top": 354,
+        "right": 63,
+        "bottom": 377
+    },
+    "wormPink_walk": {
+        "left": 63,
+        "top": 354,
+        "right": 126,
+        "bottom": 377
+    },
+    "snakeGreen_1": {
+        "left": 126,
+        "top": 354,
+        "right": 179,
+        "bottom": 501
+    },
+    "snakeGreen_2": {
+        "left": 179,
+        "top": 354,
+        "right": 231,
+        "bottom": 501
+    },
+    "snakeRed_1": {
+        "left": 231,
+        "top": 354,
+        "right": 284,
+        "bottom": 501
+    },
+    "snakeRed_2": {
+        "left": 284,
+        "top": 354,
+        "right": 336,
+        "bottom": 501
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "alienBeige_climb1": {
+        "left": 0,
+        "top": 0,
+        "right": 66,
+        "bottom": 95
+    },
+    "alienBeige_climb2": {
+        "left": 66,
+        "top": 0,
+        "right": 132,
+        "bottom": 95
+    },
+    "alienBeige_duck": {
+        "left": 132,
+        "top": 0,
+        "right": 199,
+        "bottom": 72
+    },
+    "alienBeige_front": {
+        "left": 199,
+        "top": 0,
+        "right": 265,
+        "bottom": 92
+    },
+    "alienBeige_hurt": {
+        "left": 265,
+        "top": 0,
+        "right": 332,
+        "bottom": 92
+    },
+    "alienBeige_jump": {
+        "left": 332,
+        "top": 0,
+        "right": 398,
+        "bottom": 93
+    },
+    "alienBeige_stand": {
+        "left": 398,
+        "top": 0,
+        "right": 464,
+        "bottom": 92
+    },
+    "alienBeige_walk1": {
+        "left": 464,
+        "top": 0,
+        "right": 532,
+        "bottom": 93
+    },
+    "alienBeige_walk2": {
+        "left": 532,
+        "top": 0,
+        "right": 602,
+        "bottom": 96
+    },
+    "alienBlue_climb1": {
+        "left": 0,
+        "top": 96,
+        "right": 66,
+        "bottom": 188
+    },
+    "alienBlue_climb2": {
+        "left": 66,
+        "top": 96,
+        "right": 132,
+        "bottom": 188
+    },
+    "alienBlue_duck": {
+        "left": 132,
+        "top": 96,
+        "right": 199,
+        "bottom": 168
+    },
+    "alienBlue_front": {
+        "left": 199,
+        "top": 96,
+        "right": 265,
+        "bottom": 188
+    },
+    "alienBlue_hurt": {
+        "left": 265,
+        "top": 96,
+        "right": 332,
+        "bottom": 188
+    },
+    "alienBlue_jump": {
+        "left": 332,
+        "top": 96,
+        "right": 398,
+        "bottom": 189
+    },
+    "alienBlue_stand": {
+        "left": 398,
+        "top": 96,
+        "right": 464,
+        "bottom": 188
+    },
+    "alienBlue_walk1": {
+        "left": 464,
+        "top": 96,
+        "right": 530,
+        "bottom": 189
+    },
+    "alienBlue_walk2": {
+        "left": 530,
+        "top": 96,
+        "right": 597,
+        "bottom": 192
+    },
+    "alienGreen_climb1": {
+        "left": 0,
+        "top": 192,
+        "right": 66,
+        "bottom": 284
+    },
+    "alienGreen_climb2": {
+        "left": 66,
+        "top": 192,
+        "right": 132,
+        "bottom": 284
+    },
+    "alienGreen_duck": {
+        "left": 132,
+        "top": 192,
+        "right": 201,
+        "bottom": 263
+    },
+    "alienGreen_front": {
+        "left": 201,
+        "top": 192,
+        "right": 267,
+        "bottom": 284
+    },
+    "alienGreen_hurt": {
+        "left": 267,
+        "top": 192,
+        "right": 336,
+        "bottom": 284
+    },
+    "alienGreen_jump": {
+        "left": 336,
+        "top": 192,
+        "right": 403,
+        "bottom": 285
+    },
+    "alienGreen_stand": {
+        "left": 403,
+        "top": 192,
+        "right": 469,
+        "bottom": 284
+    },
+    "alienGreen_walk1": {
+        "left": 469,
+        "top": 192,
+        "right": 537,
+        "bottom": 285
+    },
+    "alienGreen_walk2": {
+        "left": 537,
+        "top": 192,
+        "right": 607,
+        "bottom": 288
+    },
+    "alienPink_climb1": {
+        "left": 0,
+        "top": 288,
+        "right": 66,
+        "bottom": 380
+    },
+    "alienPink_climb2": {
+        "left": 66,
+        "top": 288,
+        "right": 132,
+        "bottom": 380
+    },
+    "alienPink_duck": {
+        "left": 132,
+        "top": 288,
+        "right": 201,
+        "bottom": 359
+    },
+    "alienPink_front": {
+        "left": 201,
+        "top": 288,
+        "right": 267,
+        "bottom": 380
+    },
+    "alienPink_hurt": {
+        "left": 267,
+        "top": 288,
+        "right": 336,
+        "bottom": 380
+    },
+    "alienPink_jump": {
+        "left": 336,
+        "top": 288,
+        "right": 403,
+        "bottom": 381
+    },
+    "alienPink_stand": {
+        "left": 403,
+        "top": 288,
+        "right": 469,
+        "bottom": 380
+    },
+    "alienPink_walk1": {
+        "left": 469,
+        "top": 288,
+        "right": 537,
+        "bottom": 381
+    },
+    "alienPink_walk2": {
+        "left": 537,
+        "top": 288,
+        "right": 607,
+        "bottom": 384
+    },
+    "alienYellow_climb1": {
+        "left": 0,
+        "top": 384,
+        "right": 66,
+        "bottom": 466
+    },
+    "alienYellow_climb2": {
+        "left": 66,
+        "top": 384,
+        "right": 132,
+        "bottom": 466
+    },
+    "alienYellow_duck": {
+        "left": 132,
+        "top": 384,
+        "right": 200,
+        "bottom": 451
+    },
+    "alienYellow_front": {
+        "left": 200,
+        "top": 384,
+        "right": 266,
+        "bottom": 466
+    },
+    "alienYellow_hurt": {
+        "left": 266,
+        "top": 384,
+        "right": 335,
+        "bottom": 465
+    },
+    "alienYellow_jump": {
+        "left": 335,
+        "top": 384,
+        "right": 402,
+        "bottom": 467
+    },
+    "alienYellow_stand": {
+        "left": 402,
+        "top": 384,
+        "right": 468,
+        "bottom": 466
+    },
+    "alienYellow_walk1": {
+        "left": 468,
+        "top": 384,
+        "right": 536,
+        "bottom": 467
+    },
+    "alienYellow_walk2": {
+        "left": 536,
+        "top": 384,
+        "right": 606,
+        "bottom": 470
+    }
+}
